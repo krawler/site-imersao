@@ -1,0 +1,30 @@
+
+@media (min-width: 1200px) {
+    .navbar-brand .imersao-logo {
+        max-height: 550px;
+    }
+}
+
+.navbar-brand .imersao-logo {
+    max-height: 245px;
+    transition: all .5s;
+    width: auto;
+}
+
+.imersao-logo-rodape {
+    max-height: 172px;
+    transition: all .5s;
+    width: auto;
+}
+
+.phone{
+    width:40%;
+}
+
+.display-anuncio-inicial{
+    font-size:3.0rem;
+}
+
+.menu-superior{
+    font-size: 18px;
+}
