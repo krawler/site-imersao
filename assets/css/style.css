@@ -1,18 +1,12 @@
 
-@media (min-width: 1200px) {
-    .navbar-brand .imersao-logo {
-        max-height: 550px;
-    }
-}
-
 .navbar-brand .imersao-logo {
-    max-height: 245px;
+    max-height: 215px;
     transition: all .5s;
     width: auto;
 }
 
 .imersao-logo-rodape {
-    max-height: 172px;
+    max-height: 252px;
     transition: all .5s;
     width: auto;
 }
@@ -27,4 +21,60 @@
 
 .menu-superior{
     font-size: 18px;
+}
+
+.link-botao-participar{
+    text-decoration: none;
+    color: #fff;
+}
+
+.display-anuncio-final{
+    color:white;
+    font-size: 3.5  rem;
+}
+
+.subtitulo-anuncio-final{
+    color:white;
+}
+
+.imagem-menor {
+    max-width:100%;
+}
+
+ul li.item{
+    line-height: 20px;
+}
+
+.btn-amarelo-imersao {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #ffde59;
+    --bs-btn-border-color: #ffde59;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #ffde59;
+    --bs-btn-hover-border-color: #ffde59;
+    --bs-btn-focus-shadow-rgb: 60, 153, 110;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #ffde59;
+    --bs-btn-active-border-color: #ffde59;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #ffde59;
+    --bs-btn-disabled-border-color: #ffde59;
+}
+
+.btn-roxo-imersao {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #8c52ff;
+    --bs-btn-border-color: #8c52ff;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #8c52ff;
+    --bs-btn-hover-border-color: #8c52ff;
+    --bs-btn-focus-shadow-rgb: 60, 153, 110;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #8c52ff;
+    --bs-btn-active-border-color: #8c52ff;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #8c52ff;
+    --bs-btn-disabled-border-color: #8c52ff;
 }
