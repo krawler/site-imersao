@@ -45,36 +45,44 @@ ul li.item{
     line-height: 20px;
 }
 
+.botao-calltoaction{
+    font-size:3.1rem; 
+    font-weight:600; 
+    padding:20px;
+    margin-top:5px;
+    margin-bottom:20px;
+}
+
 .btn-amarelo-imersao {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #ffde59;
-    --bs-btn-border-color: #ffde59;
+    --bs-btn-bg: #f7a110;
+    --bs-btn-border-color: #f7a110;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #ffde59;
-    --bs-btn-hover-border-color: #ffde59;
+    --bs-btn-hover-bg: #f7a110;
+    --bs-btn-hover-border-color: #f7a110;
     --bs-btn-focus-shadow-rgb: 60, 153, 110;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #ffde59;
-    --bs-btn-active-border-color: #ffde59;
+    --bs-btn-active-bg: #f7a110;
+    --bs-btn-active-border-color: #f7a110;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #ffde59;
-    --bs-btn-disabled-border-color: #ffde59;
+    --bs-btn-disabled-bg: #f7a110;
+    --bs-btn-disabled-border-color: #f7a110;
 }
 
 .btn-roxo-imersao {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #8c52ff;
-    --bs-btn-border-color: #8c52ff;
+    --bs-btn-bg: #e7135f;
+    --bs-btn-border-color: #e7135f;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #8c52ff;
-    --bs-btn-hover-border-color: #8c52ff;
+    --bs-btn-hover-bg: #e7135f;
+    --bs-btn-hover-border-color: #e7135f;
     --bs-btn-focus-shadow-rgb: 60, 153, 110;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #8c52ff;
-    --bs-btn-active-border-color: #8c52ff;
+    --bs-btn-active-bg: #e7135f;
+    --bs-btn-active-border-color: #e7135f;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #8c52ff;
-    --bs-btn-disabled-border-color: #8c52ff;
+    --bs-btn-disabled-bg: #e7135f;
+    --bs-btn-disabled-border-color: #e7135f;
 }
