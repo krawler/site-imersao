@@ -46,6 +46,7 @@ ul li.item{
 }
 
 .botao-calltoaction{
+    width:100%;
     font-size:3.1rem; 
     font-weight:600; 
     padding:20px;
