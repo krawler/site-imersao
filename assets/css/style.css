@@ -49,6 +49,10 @@
     letter-spacing: 3px;
 }
 
+.text-right{
+    text-align:right;
+}
+
 .botao-calltoaction{
     width:100%;
     font-size:3.1rem; 
