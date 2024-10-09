@@ -41,8 +41,12 @@
     max-width:100%;
 }
 
-ul li.item{
-    line-height: 20px;
+.p-texto{
+    letter-spacing: 2px;
+}
+
+.p-sobre-mentor {
+    letter-spacing: 3px;
 }
 
 .botao-calltoaction{
