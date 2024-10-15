@@ -53,6 +53,11 @@
     text-align:right;
 }
 
+.video-dep{
+    max-width: 500px;
+    height: 600px;
+}
+
 .botao-calltoaction{
     width:100%;
     font-size:3.1rem; 
